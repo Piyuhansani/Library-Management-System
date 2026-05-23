@@ -7,7 +7,9 @@ A Java-based desktop application designed to automate and simplify library opera
 ## 👩‍💻 Author
 
 **L.L. Piyumi Hansani**  
+
 Undergraduate – BSc (Hons) Computer Science
+
 ---
 
 ## 📌 Project Overview
@@ -22,22 +24,22 @@ The Library Management System reduces manual effort in library operations and im
 ![Login](screenshots/Login.png.png)
 
 ### 🏠 Admin Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/dashboard.png.png)
 
 ### 👤 Student Management
-![Students](screenshots/students.png)
+![Students](screenshots/students.png.png)
 
 ### 📖 Book Management
-![Books](screenshots/books.png)
+![Books](screenshots/books.png.png)
 
 ### 📀 DVD Management
-![DVD](screenshots/dvd.png)
+![DVD](screenshots/dvd.png.png)
 
 ### 📤 Issue Book Details
-![Issue Book](screenshots/issue.png)
+![Issue Book](screenshots/issue.png.png)
 
 ### 📥 Return Book Details
-![Return Book](screenshots/return.png)
+![Return Book](screenshots/return.png.png)
 
 ---
 
