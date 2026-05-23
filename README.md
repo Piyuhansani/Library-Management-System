@@ -19,7 +19,7 @@ The Library Management System reduces manual effort in library operations and im
 ## 📸 Screenshots
 
 ### 🔐 Admin Login
-![Login](screenshots/Login.png)
+![Login](screenshots/Login.png.png)
 
 ### 🏠 Admin Dashboard
 ![Dashboard](screenshots/dashboard.png)
